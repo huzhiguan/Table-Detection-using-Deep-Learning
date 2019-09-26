@@ -1,2 +1,4 @@
 data/val
 data/train
+jobs/
+tfdata/
